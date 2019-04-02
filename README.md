@@ -19,3 +19,9 @@ Non-comparison
 Simple
 Efficient 
 
+
+
+Selection Sort: 
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
+
