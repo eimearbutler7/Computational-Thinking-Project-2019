@@ -21,7 +21,11 @@ Efficient
 
 
 
-Selection Sort: 
-
+Insertion Sort (Simple and efficient on small data): 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
 
+
+
+Selection Sort (Simple and efficient on small data): 
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
