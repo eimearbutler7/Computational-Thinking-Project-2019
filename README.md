@@ -4,13 +4,13 @@ For this project, I will write a Python application which will be used to benchm
 
 The following 5 algorithms will be discussed:
 
-1. A simple comparison-based sort (Bubble Sort, Selection Sort or Insertion Sort)
-2. An efficient comparison-based sort (Merge Sort, Quicksort or Heap Sort)
-3. A non-comparison sort (Counting Sort, Bucket Sort or Radix Sort)
-4. Any other sorting algorithm of your choice
-5. Any other sorting algorithm of your choice
+1. A simple comparison-based sort: (Bubble Sort, Selection Sort or Insertion Sort)
+2. An efficient comparison-based sort:  (Merge Sort, Quicksort or Heap Sort)
+3. A non-comparison sort: (Counting Sort, Bucket Sort or Radix Sort)
+4. AN Other 
+5. AN Other 
 
-In orderto visualise 
+In order to visualise the types of  
 
 Comparison 
 Non-comparison
