@@ -21,7 +21,7 @@ Efficient
 
 
 
-Insertion Sort (Simple and efficient on small data): 
+### Insertion Sort (Simple and efficient on small data): 
 
 This sort takes each element, one by one and sorts it relative to all previously sorted data. By moving systematically through the data set, it eventually moves the elements into order. 
 
@@ -29,10 +29,13 @@ A visual demonstration of this is seen below...
 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
+
+
 gif source: https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif
 
 
-Selection Sort (Simple and efficient on small data): 
+### Selection Sort (Simple and efficient on small data): 
+
 This sort runs through either the full set of data (first run) or a subset of the data that has not been assigned a final location yet (all other remaining runs) each time to see which of the elements meets the criteria for the next position (lowest or highest depending on the requirements of the algorithm). Once it establishes the element that best fits, it allocates the element into that position and then moves onto the next run to find the next element that will best fit the next position. This again requires the algorith to look at all remaining elements.that do not yet have a location. 
 
 
@@ -45,7 +48,7 @@ A visual demonstration of this is seen below...
 gif source: https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif
 
 
-Bubble Sort (Simple and efficient on small data):
+### Bubble Sort:
 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
@@ -54,21 +57,25 @@ Bubble Sort (Simple and efficient on small data):
 gif source: https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
 
 
-Merge Sort, 
+### Merge Sort 
 
 ![alt text](https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge-sort-example-300px.gif)
 
 https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge-sort-example-300px.gif
 
 
-Quicksort 
+### Quicksort 
 
 ![alt text](https://en.wikipedia.org/wiki/Quicksort#/media/File:Sorting_quicksort_anim.gif)
 
 https://en.wikipedia.org/wiki/Quicksort#/media/File:Sorting_quicksort_anim.gif
 
 
-Heap Sort)
+### Heap Sort
+
+![alt text](https://en.wikipedia.org/wiki/Heapsort#/media/File:Sorting_heapsort_anim.gif)
+
+gif source: https://en.wikipedia.org/wiki/Heapsort#/media/File:Sorting_heapsort_anim.gif
 
 Counting Sort, 
 
