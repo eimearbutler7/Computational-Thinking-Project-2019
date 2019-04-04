@@ -40,4 +40,44 @@ A visual demonstration of this is seen below...
 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
+
+
 gif source: https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif
+
+
+Bubble Sort (Simple and efficient on small data):
+
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
+
+
+gif source: https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
+
+
+Merge Sort, 
+
+![alt text](https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge-sort-example-300px.gif)
+
+https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge-sort-example-300px.gif
+
+
+Quicksort 
+
+![alt text](https://en.wikipedia.org/wiki/Quicksort#/media/File:Sorting_quicksort_anim.gif)
+
+https://en.wikipedia.org/wiki/Quicksort#/media/File:Sorting_quicksort_anim.gif
+
+
+Heap Sort)
+
+Counting Sort, 
+
+Bucket Sort 
+
+Radix Sort
+
+
+
+
+
+
